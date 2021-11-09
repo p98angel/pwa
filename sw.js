@@ -10,7 +10,7 @@ const APP_SHELL = [
     'img/favicon.ico',
     'img/avatars/eric.jpg',
     'img/avatars/Kenny.jpg',
-    'img/avatars/Kyle.jpg',
+    'img/avatars/kyle.jpg',
     'img/avatars/Randy.jpg',
     'img/avatars/stan.jpg',
     'js/app.js'
